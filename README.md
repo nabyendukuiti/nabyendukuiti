@@ -1,11 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nabyendu Kuiti</h1>
-<h3 align="left">Hello, and welcome to my Github profile! I'm an enthusiastic and self-motivated marketing postgraduate with a focus on excelling in data analysis. Proficient in Excel, Power BI, and SQL,I enjoy turning raw data into valuable insights.
-
-I am actively seeking opportunities to apply my skills and contribute to success in the dynamic field of data analysis.
-Let's connect and explore potential collaborations!</h3>
-
-
-## Nabyendu's Portfolio
+<h1 align="center">Hi 👋, Here is my portfolio</h1>
 
 - SQL
   - #1: [AtliQ Hardware Sales Insights from Ad-hoc requests](https://github.com/nabyendukuiti/AtliQ-Hardware-Sales-Insights-from-Ad-hoc-requests)
