@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nabyendu Kuiti</h1>
-<h3 align="center">I'm an aspiring data analyst.</h3>
+<h3 align="left">Hello, and welcome to my Github profile! I'm an enthusiastic and self-motivated marketing postgraduate with a focus on excelling in data analysis. Proficient in Excel, Power BI, and SQL,I enjoy turning raw data into valuable insights.
 
-- 🔭 I’m currently working on [Data analyst portfolio project](https://github.com/nabyendukuiti/8-Week-SQL-Challenge#case-study-1-dannys-diner)
+I am actively seeking opportunities to apply my skills and contribute to success in the dynamic field of data analysis.
+Let's connect and explore potential collaborations!</h3>
 
-- 🌱 I’m currently learning **SQL,Excel**
 
-- 📫 How to reach me **nabyendukuiti255@gmail.com**
+## Nabyendu's Portfolio
+
+- [SQL](#sql)
+  - #1: [AtliQ Hardware Sales Insights from Ad-hoc requests](https://github.com/nabyendukuiti/AtliQ-Hardware-Sales-Insights-from-Ad-hoc-requests)
+- [Excel](#excel)
+  - #1: [Revenue Insights in the Hospitality domain](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/tree/main)
+- [Power BI](#powerbi)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nabyendu-kuiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nabyendu-kuiti" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
 <!---
