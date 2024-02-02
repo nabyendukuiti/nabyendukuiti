@@ -7,11 +7,11 @@ Let's connect and explore potential collaborations!</h3>
 
 ## Nabyendu's Portfolio
 
-- [SQL](#sql)
+- SQL
   - #1: [AtliQ Hardware Sales Insights from Ad-hoc requests](https://github.com/nabyendukuiti/AtliQ-Hardware-Sales-Insights-from-Ad-hoc-requests)
-- [Excel](#excel)
+- Excel
   - #1: [Revenue Insights in the Hospitality domain](https://github.com/nabyendukuiti/Revenue-Insights-in-Hospitality-domain/tree/main)
-- [Power BI](#powerbi)
+- Power BI
 
 
 <h3 align="left">Connect with me:</h3>
